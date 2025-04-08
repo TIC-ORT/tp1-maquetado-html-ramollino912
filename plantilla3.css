@@ -1,6 +1,7 @@
 .arriba{
 background-color: black;
-width: 440%;
-height: 200%;
-
+width: 80%;
+height: 100px;
+display: block;
+width: auto;
 }
